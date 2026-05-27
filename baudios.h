@@ -1,0 +1,2 @@
+#define BAUD_RATE 115200
+#define PIN_SENSOR 34
